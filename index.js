@@ -45,7 +45,7 @@ move(newImage("assets/tree.png")).to(200, 450)
 //         x = x +1 
 //     }
 //     if (direction === "west") {
-//         y = y -1 
+//         y = y -1 -
 //     }
 //     character.style.left = x + "px"
 //     character.style.bottom = y + "px"
